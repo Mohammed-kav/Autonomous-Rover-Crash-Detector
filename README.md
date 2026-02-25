@@ -32,3 +32,5 @@ On the receiving end, a background automation workflow built using the "Automate
 2.  Reads the remaining characteristics (speed, location, time).
 3.  Generates a second notification containing the crash details.
 4.  Opens a Google Maps pin at the reported crash coordinates.
+
+### Demonstration Video: https://vimeo.com/1166830561?fl=ip&fe=ec
